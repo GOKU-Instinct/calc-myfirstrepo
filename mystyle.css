@@ -1,0 +1,19 @@
+div {
+	height: 30px;
+	width: 150px;
+}
+
+input {
+	width: 23%;
+}
+
+#myform {
+	background-color: black;
+	padding: 5px;
+	width: 160px;
+}
+
+#disp {
+	height: 30px;
+	width: 150px;
+}
